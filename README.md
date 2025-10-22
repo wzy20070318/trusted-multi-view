@@ -37,14 +37,14 @@
 ### 1.1 Datasets
 -Datasets attached with the code can be found at the end of the page.
 -example: dataset name (the mark refers to the paper listed above)
-  - 1.1.1Caltech-3V(PartA 1.1)
-  - 1.1.2.Synthetic 3d,MNIST-USPS,Prokayoti(PartA 1.2)
-  - 1.1.3.SUNRGBD,NYUD2(PartA 2.1)
-  - 1.1.4.Handwritten,CUB,PIE,Caltech101,Scene15,HMDB(PartA 2.2)
-  - 1.1.5.Handwritten,CUB,FOOD-101,Caltech101,Scene15,HMDB(PartA 2.3)
-  - 1.1.6.PIE,Handwritten，Scene（PartA 2.4）
-  - 1.1.7.Handwritten,CUB,PIE,Caltech101,Scene15,NUS-WIDE，NoisyMNIST，Event8，CCV（PartA 2.5）
-  - 1.1.8.BBC,Caltech101,Leaves,PIE,UCI(PartA 3.1)
+  - 1.1.1 Caltech-3V(PartA 1.1)
+  - 1.1.2 Synthetic 3d,MNIST-USPS,Prokayoti(PartA 1.2)
+  - 1.1.3 SUNRGBD,NYUD2(PartA 2.1，PartB 2.1)
+  - 1.1.4 Handwritten,CUB,PIE,Caltech101,Scene15,HMDB(PartA 2.2)
+  - 1.1.5 Handwritten,CUB,FOOD-101,Caltech101,Scene15,HMDB(PartA 2.3)
+  - 1.1.6 PIE,Handwritten，Scene（PartA 2.4）
+  - 1.1.7 Handwritten,CUB,PIE,Caltech101,Scene15,NUS-WIDE，NoisyMNIST，Event8，CCV（PartA 2.5）
+  - 1.1.8 BBC,Caltech101,Leaves,PIE,UCI(PartA 3.1)
 
 ### 1.2. Related Repositories
 - [liangnaiyao/multiview_learning](https://github.com/liangnaiyao/multiview_learning) - A comprehensive collection of multi-view learning methods.

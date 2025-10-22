@@ -39,7 +39,7 @@
 -example: dataset name (the mark refers to the paper listed above)
   - 1.1.1 Caltech-2V, Caltech-3V, COIL20, Event8, and NUS22 dataset.(PartA 1.1)
   - 1.1.2 Synthetic 3d,MNIST-USPS,Prokayoti，Hdigit，Cifar100，Wiki(PartA 1.2)
-  - 1.1.3 SUNRGBD,NYUD2，Handwritten,CUB,PIE,Caltech101,Scene15,HMDB，https://archive.ics.uci.edu/ml/datasets/Multiple+Features(PartA 2.1，PartB 2.1)
+  - 1.1.3 SUNRGBD,NYUD2，Handwritten,CUB,PIE,Caltech101,Scene15,HMDB，https://archive.ics.uci.edu/ml/datasets/Multiple+Features (PartA 2.1，PartB 2.1)
   - 1.1.4 Handwritten,CUB,PIE,Caltech101,Scene15,HMDB(PartA 2.2)
   - 1.1.5 Handwritten,CUB,FOOD-101,Caltech101,Scene15,HMDB(PartA 2.3)
   - 1.1.6 PIE,Handwritten，Scene15，Caltech101，CUB，Animal，ALOI，NUS（PartA 2.4）

@@ -17,15 +17,18 @@ Part B: Trusted Multi-view Applications
 1. Biomedical (EEG)
 1.1 Information Sciences25 Trust EEG Epileptic Seizure Detection via Evidential Multi-view Learning (python, MATLAB)
 2. Framework Reproduction
-2.1  reproduce of Trusted Multi-View Classification with PaddlePaddle (python, Shell)
+2.1 arXiv21 reproduce of Trusted Multi-View Classification with PaddlePaddle (python, Shell)
 Part C: Resources
-1. Datasets
+1.1 Datasets
      example: dataset name (the mark refers to the paper listed above)
-   1.1Caltech-3V(PartA 1.1)
-   2.Synthetic 3d,MNIST-USPS,Prokayoti(PartA 1.2)
-   3.SUNRGBD,NYUD2(PartA 2.1)
-   4.Handwritten,CUB,PIE,Caltech101,Scene15,HMDB(PartA 2.2)
-   5.Handwritten,CUB,FOOD-101,Caltech101,Scene15,HMDB(PartA 2.3)
-   6.PIE,Handwritten，Scene（PartA 2.4）
-   7.Handwritten,CUB,PIE,Caltech101,Scene15,NUS-WIDE，NoisyMNIST，Event8，CCV（PartA 2.5）
-   8.BBC,Caltech101,Leaves,PIE,UCI(PartA 3.1)
+   1.1.1Caltech-3V(PartA 1.1)
+   1.1.2.Synthetic 3d,MNIST-USPS,Prokayoti(PartA 1.2)
+   1.1.3.SUNRGBD,NYUD2(PartA 2.1)
+   1.1.4.Handwritten,CUB,PIE,Caltech101,Scene15,HMDB(PartA 2.2)
+   1.1.5.Handwritten,CUB,FOOD-101,Caltech101,Scene15,HMDB(PartA 2.3)
+   1.1.6.PIE,Handwritten，Scene（PartA 2.4）
+   1.1.7.Handwritten,CUB,PIE,Caltech101,Scene15,NUS-WIDE，NoisyMNIST，Event8，CCV（PartA 2.5）
+   1.1.8.BBC,Caltech101,Leaves,PIE,UCI(PartA 3.1)
+1.2 famous authors in the field of trusted multi-view
+     private opinions
+   1.Han-Zongbo   
